@@ -8,6 +8,7 @@
 
 <p align="center">
     <a href="#about">📙 About</a>
+    <a href="#overview">📋 Overview</a>
     <a href="#features">💡 Features</a>
     <a href="#technologies">💻 Technologies</a>
 </p>
@@ -23,7 +24,7 @@
 
 ---
 
-<H2 id="features">💡 Features</H2>
+<H2 id="overview">📋 Overview</H2>
 
 - [x] Hero section
 - [x] Header
@@ -35,15 +36,20 @@
 - [x] Features section
 - [x] Call-To-Action section
 - [x] Footer section
+
+<section align="center">
+    <img alt="Omnifood website overview images" src="omni-food.gif"/>
+</section>
+
+---
+
+<H2 id="features">💡 Features</H2>
+
 - [x] Responsive design with media queries (laptops, tablets and phones)
 - [x] Mobile navigation (hidden menu on smaller screens)
 - [x] Smooth scrolling
 - [x] Sticky navigation
 - [x] Image optimizations and performance test
-
-<section align="center">
-    <img alt="Omnifood website overview images" href="omni-food.gif"/>
-</section>
 
 ---
 
@@ -53,6 +59,6 @@
 - [x] CSS
 - [x] JavaScript
 
-<section align="center">
-    <button href="https://omnifood-kenji.netlify.app/">Check website</button>
-</section>
+<h2 align="center">
+    <a href="https://omnifood-kenji.netlify.app/">Check website</a>
+</h2>
