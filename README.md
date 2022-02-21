@@ -53,6 +53,7 @@
 - [x] Smooth scrolling
 - [x] Sticky navigation
 - [x] Image optimizations and performance test
+- [x] Forms implementation
 
 ---
 
