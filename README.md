@@ -22,7 +22,7 @@
 <p>Omnifood is an AI-powered food subscription for people who want to eat healthy 365 days per year. It's tailored to the customer's personal tastes and nutritional needs, and has more than 5,000 recipes that can work with any diet as well</p>
 <p>Originally created by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann<a/> and made by Kenji Iwatani</p>
 <p>
-    <a href="https://omnifood-kenji.netlify.app/">Check website &rarr;</a>
+    <h3><a href="https://omnifood-kenji.netlify.app/">Check website &rarr;</a></h3>
 </p>
 
 ---
